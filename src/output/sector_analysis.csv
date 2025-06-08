@@ -1,0 +1,5 @@
+sector,avg_rating,avg_sentiment,num_apps
+Travel,4.27,0.105,1
+E-commerce,3.537,0.032,2
+Transportation,2.889,0.024,1
+Fintech,2.376,0.039,1
